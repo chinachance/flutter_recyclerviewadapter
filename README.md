@@ -1,0 +1,2 @@
+# flutter_recyclerviewadapter
+为列表添加适配器的组件,同时添加了下拉刷新和上拉加载
